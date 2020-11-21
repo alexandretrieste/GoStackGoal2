@@ -7,7 +7,7 @@
 
 >Sobre o desafio   |    Entrega   |    Licença
 
-🚀 Sobre o desafio
+###🚀 Sobre o desafio
 
 Nesse desafio, você deve criar uma aplicação para treinar o que você aprendeu até agora no Node.js!
 
@@ -25,7 +25,7 @@ Agora navegue até a pasta criada e abra no Visual Studio Code, lembre-se de exe
 
 
 
-Rotas da aplicação
+###Rotas da aplicação
 
 Agora que você já está com o template clonado, e pronto para continuar, você deve abrir o arquivo app.js, e completar onde não possui código com o código para atingir os objetivos de cada rota.
 
@@ -51,7 +51,7 @@ Talvez fique difícil enxergar por ser apenas um número, mas pense que cada lik
 
 Bons estudos <3
 
-Específicação dos testes
+###Específicação dos testes
 
 Em cada teste, tem uma breve descrição no que sua aplicação deve cumprir para que o teste passe.
 
@@ -77,6 +77,9 @@ should be able to give a like to the repository: Para que esse teste passe, sua 
 
 should not be able to like a repository that does not exist: Para que esse teste passe, você deve validar na sua rota de like se o id do repositório enviado pela url existe ou não. Caso não exista, retornar um erro com status 400.
 
-📆 Entrega
+###📆 Entrega
 
 Esse desafio deve ser entregue a partir da plataforma da Rocketseat, envie o link do repositório que você fez suas alterações. Após concluir o desafio, fazer um post no Linkedin e postar o código no Github é uma boa forma de demonstrar seus conhecimentos e esforços para evoluir na sua carreira para oportunidades futuras.
+
+###Licença
+MIT
