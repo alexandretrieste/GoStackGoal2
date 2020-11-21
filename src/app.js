@@ -31,7 +31,7 @@ app.put("/repositories/:id", (request, response) => {
   const {title, url, techs} = request.body;
   const { id } = request.params;
   const findRepositoryIndex = repositories.findIndex(repository => repository.id === id);
-  if (!findRepositoryIndex) {
+  if (!findRepositoryIndex === -1) {
     return response.status(400).json({error: 'Repository does not exists.'});
   }
   const repository = {
