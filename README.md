@@ -1,11 +1,21 @@
 ![GoStack](https://user-images.githubusercontent.com/68622225/99884835-c8cde380-2c0f-11eb-96cf-0af264dbcb4e.png)
 
-# GoStackGoal2
+<h2 align="center">
+    <a href="https://nodejs.org/en/">🔗 Desafio 02: Conceitos do Node.js</a>
+</h2>
+<p align="center">🚀 Construindo uma aplicação backend com rotas e especificação de testes</p>
+ 
+<img src="https://img.shields.io/static/v1?label=Blog&message=Rocketseat&color=7159c1&style=for-the-badge&logo=ghost"/> <img src="https://img.shields.io/github/license/alexandretrieste/GoStackGoal2"/> 
 
-## Desafio 02: Conceitos do Node.js
-
-
-<a name = "section"><a/>Sobre o desafio   | <a name = "section"><a/>Entrega   |  <a name = "section"><a/>Licença
+<p align="center">
+ <a href="#Sobre-o-desafio">Sobre o desafio</a> |
+ <a href="#Entrega ">Entrega</a> | 
+ <a href="#Licença"> Licença</a> |
+ <a href="#contribuicao">Contribuição</a> • 
+ <a href="#licenc-a">Licença</a> • 
+ <a href="#autor">Autor</a>
+</p>
+| Sobre o desafio |  Entrega   |  Licença |
 
 ### 🚀 Sobre o desafio
 
@@ -82,4 +92,4 @@ should not be able to like a repository that does not exist: Para que esse teste
 Esse desafio deve ser entregue a partir da plataforma da Rocketseat, envie o link do repositório que você fez suas alterações. Após concluir o desafio, fazer um post no Linkedin e postar o código no Github é uma boa forma de demonstrar seus conhecimentos e esforços para evoluir na sua carreira para oportunidades futuras.
 
 ### Licença
-MIT
+<a href="https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT#:~:text=A%20licen%C3%A7a%20MIT%2C%20tamb%C3%A9m%20chamada,livre%20quanto%20em%20software%20propriet%C3%A1rio.">🔗 MIT</a>
