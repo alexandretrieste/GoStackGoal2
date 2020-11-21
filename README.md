@@ -11,11 +11,7 @@
  <a href="#Sobre-o-desafio">Sobre o desafio</a> |
  <a href="#Entrega ">Entrega</a> | 
  <a href="#Licença"> Licença</a> |
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenc-a">Licença</a> • 
- <a href="#autor">Autor</a>
 </p>
-| Sobre o desafio |  Entrega   |  Licença |
 
 ### 🚀 Sobre o desafio
 
