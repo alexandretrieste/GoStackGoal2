@@ -8,9 +8,9 @@
 <img src="https://img.shields.io/static/v1?label=Blog&message=Rocketseat&color=7159c1&style=for-the-badge&logo=ghost"/> <img src="https://img.shields.io/github/license/alexandretrieste/GoStackGoal2"/> 
 
 <p align="center">
- <a href="#Sobre-o-desafio">Sobre o desafio</a> |
- <a href="#Entrega ">Entrega</a> | 
- <a href="#Licença"> Licença</a> |
+ <a href="#-sobre-o-desafio">Sobre o desafio</a> |
+ <a href="#-entrega">Entrega</a> | 
+ <a href="#licença"> Licença</a> |
 </p>
 
 ### 🚀 Sobre o desafio
