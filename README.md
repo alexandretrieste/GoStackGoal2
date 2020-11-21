@@ -5,7 +5,6 @@
 </h2>
 <p align="center">🚀 Construindo uma aplicação backend com rotas e especificação de testes</p>
  
-<img src="https://img.shields.io/static/v1?label=Blog&message=Rocketseat&color=7159c1&style=for-the-badge&logo=ghost"/> <img src="https://img.shields.io/github/license/alexandretrieste/GoStackGoal2"/> 
 
 <p align="center">
  <a href="#-sobre-o-desafio">Sobre o desafio</a> |
@@ -19,7 +18,7 @@ Nesse desafio, você deve criar uma aplicação para treinar o que você aprende
 
 Essa será uma aplicação para armazenar repositórios do seu portfólio, que irá permitir a criação, listagem, atualização e remoção dos repositórios, e além disso permitir que os repositórios possam receber "likes".
 
-Template da aplicação
+#### Template da aplicação
 
 Para te ajudar nesse desafio, criamos para você um modelo que você deve utilizar como um template do Github.
 
@@ -31,7 +30,7 @@ Agora navegue até a pasta criada e abra no Visual Studio Code, lembre-se de exe
 
 
 
-### Rotas da aplicação
+#### Rotas da aplicação
 
 Agora que você já está com o template clonado, e pronto para continuar, você deve abrir o arquivo app.js, e completar onde não possui código com o código para atingir os objetivos de cada rota.
 
@@ -57,7 +56,7 @@ Talvez fique difícil enxergar por ser apenas um número, mas pense que cada lik
 
 Bons estudos <3
 
-### Específicação dos testes
+#### Específicação dos testes
 
 Em cada teste, tem uma breve descrição no que sua aplicação deve cumprir para que o teste passe.
 
