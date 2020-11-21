@@ -37,7 +37,7 @@ app.delete("/repositories/:id", (request, response) => {
   if (findRepositoryIndex >= 0) {
     repositories.splice(findRepositoryIndex, 1);
   }
-  return response.status(402).send();
+  return response.status(204).send();
 });
 
 app.post("/repositories/:id/like", (request, response) => {
